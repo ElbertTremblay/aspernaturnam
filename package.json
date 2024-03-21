@@ -1,0 +1,20 @@
+{
+  "name": "aspernaturnam",
+  "description": "Easily type math in your webapp",
+  "version": "1.0.0",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElbertTremblay/aspernaturnam.git"
+  },
+  "dependencies": {
+    "pjs": "3.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "uglify-js": "2.x",
+    "less": ">=1.5.1"
+  },
+  "author": "ModestoStehr",
+  "homepage": "https://github.com/ElbertTremblay/aspernaturnam.git"
+}
